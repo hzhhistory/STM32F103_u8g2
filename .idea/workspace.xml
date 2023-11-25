@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="F103OLED" targetName="F103OLED.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fcc96d4-7ccb-491b-a6b7-7105a2725815" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2YWGM7APLbRqCvErnh03qRC28mB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/u8g2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\clion_stm32\project_file\F103OLED\u8g2" />
+      <recent name="D:\clion_stm32\project_file\F103OLED" />
+    </key>
+  </component>
+  <component name="RunManager" selected="OpenOCD 下载并运行.OCD F103OLED">
+    <configuration name="F103OLED.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="F103OLED" TARGET_NAME="F103OLED.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="F103OLED" RUN_TARGET_NAME="F103OLED.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OCD F103OLED" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="F103OLED" TARGET_NAME="F103OLED.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="F103OLED" RUN_TARGET_NAME="F103OLED.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="D:\clion_stm32\project_file\STM32F103\STlink.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.F103OLED.elf" />
+      <item itemvalue="OpenOCD 下载并运行.OCD F103OLED" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9fcc96d4-7ccb-491b-a6b7-7105a2725815" name="默认变更列表" comment="" />
+      <created>1700633871028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700633871028</updated>
+      <workItem from="1700633891646" duration="378000" />
+      <workItem from="1700634306196" duration="56000" />
+      <workItem from="1700634375316" duration="99000" />
+      <workItem from="1700634722360" duration="398000" />
+      <workItem from="1700642136285" duration="489000" />
+      <workItem from="1700642664184" duration="230000" />
+      <workItem from="1700642914070" duration="199000" />
+      <workItem from="1700643188472" duration="1236000" />
+      <workItem from="1700645049129" duration="275000" />
+      <workItem from="1700645394303" duration="498000" />
+      <workItem from="1700645943026" duration="4000" />
+      <workItem from="1700652067978" duration="155000" />
+      <workItem from="1700716702802" duration="7504000" />
+      <workItem from="1700728274935" duration="699000" />
+      <workItem from="1700730009931" duration="6793000" />
+      <workItem from="1700745137612" duration="344000" />
+      <workItem from="1700751671941" duration="601000" />
+      <workItem from="1700813452501" duration="2402000" />
+      <workItem from="1700893708602" duration="2160000" />
+      <workItem from="1700896272703" duration="769000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

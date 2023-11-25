@@ -1,0 +1,1 @@
+D:\clion_stm32\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe -g  -Wl,-gc-sections,--print-memory-usage,-Map=D:/clion_stm32/project_file/F103OLED/cmake-build-debug/F103OLED.map -mcpu=cortex-m3 -mthumb -mthumb-interwork -T D:/clion_stm32/project_file/F103OLED/STM32F103C8Tx_FLASH.ld @CMakeFiles\F103OLED.elf.dir\objects1.rsp  -o F103OLED.elf 
